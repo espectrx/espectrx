@@ -5,9 +5,9 @@
 
 <h2>👨‍💻 Sobre Mim</h2>
     <ul>
-        <li>- 📚 Estudante de Inteligência Artificial na UFG.</li>
-        <li>- 🌱 Aprendendo HTML, CSS e Python.</li>
-        <li>- 📚 Estudante de Inteligência Artificial na UFG.</li>
+        <li>📚 Estudante de Inteligência Artificial na UFG.</li>
+        <li>🌱 Aprendendo HTML, CSS e Python.</li>
+        <li>📚 Estudante de Inteligência Artificial na UFG.</li>
     </ul>
 
 <h2>🚀 Minhas Habilidades e Tecnologias</h2>
