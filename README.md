@@ -17,11 +17,10 @@
 <h2>📊 Minhas Estatísticas do GitHub</h2>
 <div style="text-align:center;">
   <a href="https://github.com/espectrx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espectrx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espectrx&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espectrx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <br> 
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=espectrx&theme=dracula&row=1&no-bg=true&column=7"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=espectrx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espectrx&layout=compact&langs_count=7&theme=dracula"/>
+    <br> <img height="180em" src="https://streak-stats.demolab.com/?user=espectrx&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+    <img height="180em" src="https://github-profile-trophy.vercel.app/?username=espectrx&theme=dracula&row=1&no-bg=true&column=7"/>
   </a>
 </div>
 
